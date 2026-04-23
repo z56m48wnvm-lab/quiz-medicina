@@ -1,6 +1,6 @@
 // Service Worker per Quiz Medicina
 // Versione: cambia questa stringa ogni volta che aggiorni l'app per forzare il refresh
-const CACHE_NAME = 'quiz-medicina-v1';
+const CACHE_NAME = 'quiz-medicina-v2';
 const ASSETS = [
   './',
   './index.html',
